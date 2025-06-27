@@ -27,7 +27,9 @@
     /* align-items:flex-end; */
     /* align-items: center; */
     /* align-items: baseline; */
-    align-items: stretch;
+    /* align-items: stretch; */
+    /* justify-content: space-between; */
+    /* justify-content: space-around; */
     /* justify-content: space-evenly; */
 
 
@@ -38,7 +40,7 @@
 
 .flex-item {
     width: 7rem;
-    /* height: 6rem; */
+    height: 6rem;
     line-height: 6rem;
     background-color: rgb(240, 236, 99);
     color: rgb(255, 0, 149);

@@ -55,9 +55,9 @@
 
 
 .flex-item-one{
-    /* align-self: center; */
+    align-self: center;
     /* align-self: flex-end; */
     /* align-self: flex-start; */
-    /* align-self: stretch; */
+    align-self: stretch;
 } 
 

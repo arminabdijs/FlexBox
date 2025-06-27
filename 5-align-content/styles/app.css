@@ -30,14 +30,14 @@
     /* align-content: flex-start; */
     /* align-content: stretch; */
     /* align-content: space-between; */
-    /* align-content: space-around; */
+    align-content: space-around;
     /* align-content: space-evenly; */
 
 }
 
 .flex-item {
     width: 7rem;
-    height: 6rem; 
+    /* height: 6rem;  */
     line-height: 6rem;
     background-color: rgb(240, 236, 99);
     color: rgb(255, 0, 149);
